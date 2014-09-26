@@ -4,6 +4,10 @@ Hello.
 
 This is the primary repository for the [enableiot.com](https://dashboard.us.enableiot.com) external API services. 
 
-See our [wiki for the REST API documentation](https://github.com/enableiot/iotkit-api/wiki/Api-Home) or use the [iotkit-agent](https://github.com/enableiot/iotkit-agent) to focus on application development and simplify some complexities of cloud connectivity.
+See our [wiki for the REST API documentation](https://github.com/enableiot/iotkit-api/wiki/Api-Home) and [sample code](https://github.com/enableiot/iotkit-samples/api) which uses the API.
+
+or use the [iotkit-agent](https://github.com/enableiot/iotkit-agent) to focus on application development and simplify some complexities of cloud connectivity.
+
+You can find some sample code which uses the API 
 
 Happy coding!
